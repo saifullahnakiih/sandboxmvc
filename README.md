@@ -1,1 +1,1 @@
-# sandboxmvc
+# mvc blog project
